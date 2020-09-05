@@ -6,8 +6,12 @@ Description/Usage: This assignment's case is for an employee wants to create a d
 
 Notes:
 
-1.
+1. Added curernt date in header
+2. created weekly grid with daily time blocks.
+
 
 
 Sites used for Knowledge:
-1. 
+1. Adding event, https://www.jqueryscript.net/time-clock/Creating-An-Upcoming-Events-App-with-jQuery-moment-js-Eventify.html 
+2. moments cheat sheet, https://devhints.io/moment 
+3. 
